@@ -1,0 +1,11 @@
+{
+  "package_name": "turtlebot3_msgs",
+  "non_idl_tuples": [
+    "/home/lequn/Documents/GitHub/turtlebot3_ros2_ws/src/turtlebot3_msgs-foxy-devel:msg/SensorState.msg",
+    "/home/lequn/Documents/GitHub/turtlebot3_ros2_ws/src/turtlebot3_msgs-foxy-devel:msg/Sound.msg",
+    "/home/lequn/Documents/GitHub/turtlebot3_ros2_ws/src/turtlebot3_msgs-foxy-devel:msg/VersionInfo.msg",
+    "/home/lequn/Documents/GitHub/turtlebot3_ros2_ws/src/turtlebot3_msgs-foxy-devel:srv/Sound.srv",
+    "/home/lequn/Documents/GitHub/turtlebot3_ros2_ws/src/turtlebot3_msgs-foxy-devel:srv/Dqn.srv",
+    "/home/lequn/Documents/GitHub/turtlebot3_ros2_ws/src/turtlebot3_msgs-foxy-devel:action/Patrol.action"
+  ]
+}

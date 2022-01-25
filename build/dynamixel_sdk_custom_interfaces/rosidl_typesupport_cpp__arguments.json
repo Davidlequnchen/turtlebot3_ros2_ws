@@ -1,0 +1,25 @@
+{
+  "package_name": "dynamixel_sdk_custom_interfaces",
+  "output_dir": "/home/lequn/Documents/GitHub/turtlebot3_ros2_ws/build/dynamixel_sdk_custom_interfaces/rosidl_typesupport_cpp/dynamixel_sdk_custom_interfaces",
+  "template_dir": "/home/lequn/ros2_foxy/install/rosidl_typesupport_cpp/share/rosidl_typesupport_cpp/resource",
+  "idl_tuples": [
+    "/home/lequn/Documents/GitHub/turtlebot3_ros2_ws/build/dynamixel_sdk_custom_interfaces/rosidl_adapter/dynamixel_sdk_custom_interfaces:msg/SetPosition.idl",
+    "/home/lequn/Documents/GitHub/turtlebot3_ros2_ws/build/dynamixel_sdk_custom_interfaces/rosidl_adapter/dynamixel_sdk_custom_interfaces:srv/GetPosition.idl"
+  ],
+  "ros_interface_dependencies": [
+    "builtin_interfaces:/home/lequn/ros2_foxy/install/builtin_interfaces/share/builtin_interfaces/msg/Duration.idl",
+    "builtin_interfaces:/home/lequn/ros2_foxy/install/builtin_interfaces/share/builtin_interfaces/msg/Time.idl"
+  ],
+  "target_dependencies": [
+    "/home/lequn/ros2_foxy/install/rosidl_typesupport_cpp/lib/rosidl_typesupport_cpp/rosidl_typesupport_cpp",
+    "/home/lequn/ros2_foxy/install/rosidl_typesupport_cpp/lib/python3.8/site-packages/rosidl_typesupport_cpp/__init__.py",
+    "/home/lequn/ros2_foxy/install/rosidl_typesupport_cpp/share/rosidl_typesupport_cpp/resource/action__type_support.cpp.em",
+    "/home/lequn/ros2_foxy/install/rosidl_typesupport_cpp/share/rosidl_typesupport_cpp/resource/idl__type_support.cpp.em",
+    "/home/lequn/ros2_foxy/install/rosidl_typesupport_cpp/share/rosidl_typesupport_cpp/resource/msg__type_support.cpp.em",
+    "/home/lequn/ros2_foxy/install/rosidl_typesupport_cpp/share/rosidl_typesupport_cpp/resource/srv__type_support.cpp.em",
+    "/home/lequn/Documents/GitHub/turtlebot3_ros2_ws/build/dynamixel_sdk_custom_interfaces/rosidl_adapter/dynamixel_sdk_custom_interfaces/msg/SetPosition.idl",
+    "/home/lequn/Documents/GitHub/turtlebot3_ros2_ws/build/dynamixel_sdk_custom_interfaces/rosidl_adapter/dynamixel_sdk_custom_interfaces/srv/GetPosition.idl",
+    "/home/lequn/ros2_foxy/install/builtin_interfaces/share/builtin_interfaces/msg/Duration.idl",
+    "/home/lequn/ros2_foxy/install/builtin_interfaces/share/builtin_interfaces/msg/Time.idl"
+  ]
+}

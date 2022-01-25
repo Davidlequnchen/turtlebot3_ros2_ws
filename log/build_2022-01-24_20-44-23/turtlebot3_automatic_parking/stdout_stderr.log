@@ -1,0 +1,27 @@
+running develop
+running egg_info
+creating turtlebot3_automatic_parking.egg-info
+writing turtlebot3_automatic_parking.egg-info/PKG-INFO
+writing dependency_links to turtlebot3_automatic_parking.egg-info/dependency_links.txt
+writing entry points to turtlebot3_automatic_parking.egg-info/entry_points.txt
+writing requirements to turtlebot3_automatic_parking.egg-info/requires.txt
+writing top-level names to turtlebot3_automatic_parking.egg-info/top_level.txt
+writing manifest file 'turtlebot3_automatic_parking.egg-info/SOURCES.txt'
+reading manifest file 'turtlebot3_automatic_parking.egg-info/SOURCES.txt'
+writing manifest file 'turtlebot3_automatic_parking.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/lequn/Documents/GitHub/turtlebot3_ros2_ws/install/turtlebot3_automatic_parking/lib/python3.8/site-packages/site.py
+Creating /home/lequn/Documents/GitHub/turtlebot3_ros2_ws/install/turtlebot3_automatic_parking/lib/python3.8/site-packages/turtlebot3-automatic-parking.egg-link (link to .)
+Installing turtlebot3_automatic_parking script to /home/lequn/Documents/GitHub/turtlebot3_ros2_ws/install/turtlebot3_automatic_parking/lib/turtlebot3_automatic_parking
+
+Installed /home/lequn/Documents/GitHub/turtlebot3_ros2_ws/build/turtlebot3_automatic_parking
+running install_data
+creating /home/lequn/Documents/GitHub/turtlebot3_ros2_ws/install/turtlebot3_automatic_parking/share/ament_index
+creating /home/lequn/Documents/GitHub/turtlebot3_ros2_ws/install/turtlebot3_automatic_parking/share/ament_index/resource_index
+creating /home/lequn/Documents/GitHub/turtlebot3_ros2_ws/install/turtlebot3_automatic_parking/share/ament_index/resource_index/packages
+copying resource/turtlebot3_automatic_parking -> /home/lequn/Documents/GitHub/turtlebot3_ros2_ws/install/turtlebot3_automatic_parking/share/ament_index/resource_index/packages
+copying package.xml -> /home/lequn/Documents/GitHub/turtlebot3_ros2_ws/install/turtlebot3_automatic_parking/share/turtlebot3_automatic_parking
+creating /home/lequn/Documents/GitHub/turtlebot3_ros2_ws/install/turtlebot3_automatic_parking/share/turtlebot3_automatic_parking/launch
+copying launch/turtlebot3_automatic_parking.launch.py -> /home/lequn/Documents/GitHub/turtlebot3_ros2_ws/install/turtlebot3_automatic_parking/share/turtlebot3_automatic_parking/launch
+creating /home/lequn/Documents/GitHub/turtlebot3_ros2_ws/install/turtlebot3_automatic_parking/share/turtlebot3_automatic_parking/rviz
+copying rviz/turtlebot3_automatic_parking.rviz -> /home/lequn/Documents/GitHub/turtlebot3_ros2_ws/install/turtlebot3_automatic_parking/share/turtlebot3_automatic_parking/rviz
