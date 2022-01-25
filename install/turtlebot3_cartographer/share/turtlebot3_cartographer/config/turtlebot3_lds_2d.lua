@@ -1,1 +1,0 @@
-/home/lequn/Documents/GitHub/turtlebot3_ros2_ws/src/turtlebot3-foxy-devel/turtlebot3_cartographer/config/turtlebot3_lds_2d.lua

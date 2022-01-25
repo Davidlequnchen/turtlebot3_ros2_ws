@@ -1,1 +1,0 @@
-/home/lequn/Documents/GitHub/turtlebot3_ros2_ws/src/dependencies/dynamixel-workbench-ros2-devel/dynamixel_workbench_toolbox/include/dynamixel_workbench_toolbox/dynamixel_tool.h

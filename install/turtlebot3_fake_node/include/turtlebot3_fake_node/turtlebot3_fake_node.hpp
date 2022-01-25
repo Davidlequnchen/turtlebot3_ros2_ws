@@ -1,1 +1,0 @@
-/home/lequn/Documents/GitHub/turtlebot3_ros2_ws/src/turtlebot3_simulations-foxy-devel/turtlebot3_fake_node/include/turtlebot3_fake_node/turtlebot3_fake_node.hpp
